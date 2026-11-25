@@ -1,15 +1,3 @@
-# trustex-contribution-simulator
-TRUSTex Contribution Simulator: a transparent calculation of the financial contribution of a textile product under extended producer responsibility, term by term, for a T-shirt, a pair of jeans and a blazer. Research prototype of TRUSTex Task 4.2 (Horizon Europe, grant agreement 101181901). All amounts are modelled.
-For the "Description" field of the repository (GitHub allows up to 350 characters):
-
-> TRUSTex Contribution Simulator: a transparent calculation of the financial contribution of a textile product under extended producer responsibility, term by term, for a T-shirt, a pair of jeans and a blazer. Research prototype of TRUSTex Task 4.2 (Horizon Europe, grant agreement 101181901). All amounts are modelled.
-
-A shorter version, if you prefer one line:
-
-> Research prototype that calculates, term by term, the eco-modulated contribution of a textile product under extended producer responsibility (TRUSTex, Horizon Europe).
-
-For the opening of the `README.md`, a fuller description:
-
 > **TRUSTex Contribution Simulator**
 >
 > This simulator shows how the financial contribution of a textile product is built under extended producer responsibility (EPR). It applies the equation developed in Task 4.2 of the TRUSTex project:
